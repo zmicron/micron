@@ -1,0 +1,21 @@
+
+    .def-page-block
+    {
+        width: 500px;
+        margin: 100px auto;
+        padding: 25px 40px 20px 40px;
+        background: #EEE;
+        border: 1px solid #CCC;
+        .m-border-radius(5px);
+
+        h1
+        {
+            border-bottom: 1px solid #CCC;
+        }
+
+        small
+        {
+            display: block;
+            text-align: right;
+        }
+    }
